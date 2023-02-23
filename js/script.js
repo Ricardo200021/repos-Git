@@ -1,1 +1,1 @@
-window.alert("bem vindo ao curso de git e github!")
+window.alert("bem vindo ao curso de git!")
