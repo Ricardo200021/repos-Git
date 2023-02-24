@@ -7,3 +7,10 @@
 h1 {
     color: blue;
 }
+
+img {
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+
+}
